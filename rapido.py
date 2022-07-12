@@ -14,7 +14,7 @@ print("With string:", random.sample(string, 4))
   
 # Prints list of random items of
 # length 4 from the given tuple.
-tuple1 = ("ankit", "geeks", "computer", "science",
+tuple1 = ("geeks", "computer", "science",
                    "portal", "scientist", "btech")
 print("With tuple:", random.sample(tuple1, 4))
   
