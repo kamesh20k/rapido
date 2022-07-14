@@ -4,7 +4,7 @@ import random
   
 # Prints list of random items of
 # length 3 from the given list.
-list1 = [1, 2, 3, 4, 5, 6] 
+list1 = [1, 2, 3, 4, 5, 6,7] 
 print("With list:", random.sample(list1, 3))
   
 # Prints list of random items of
